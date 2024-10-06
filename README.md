@@ -8,7 +8,6 @@
 [![GitHub](https://img.shields.io/github/followers/anishgoyal1108?label=Follow&style=social)](https://github.com/anishgoyal1108)
 
 - 👨‍🎓 Freshman at Georgia Southern University, pursuing a B.S. in Computer Engineering and a minor in Physics, with aspirations for a Ph.D. in Quantum Computing.
-- 📝 Blogger at [anishgoyal.com](https://anishgoyal.com) sharing insights on quantum physics, computer science, mathematics, and cybersecurity topics. 
 - 💡 Passionate about STEM research. Currently writing a paper on using quantum interferometry for high-precision rotation sensors!
 - 🛠️ Active participant in international cybersecurity competitions, with a history of high placements and awards in CTFs.
 - 🌟 Dedicated to STEM outreach and democratizing education for all.
