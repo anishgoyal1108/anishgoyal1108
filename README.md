@@ -2,7 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanishgoyal1108%2Fanishgoyal1108&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anishgoyal1108/)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/anishkgoyal_/)](https://www.instagram.com/anishkgoyal_)
 [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anishgoyal1108@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://anishgoyal.com)](https://anishgoyal.com)
 [![GitHub](https://img.shields.io/github/followers/anishgoyal1108?label=Follow&style=social)](https://github.com/anishgoyal1108)
